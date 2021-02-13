@@ -3,7 +3,7 @@ using System;
 
 /* Test comment again, the apa is gone now */
 
-/* Test of row 2 */
+/* Test of row 2 and more */
 
 namespace KattenJanssonTestar1
 {
