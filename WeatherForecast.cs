@@ -1,6 +1,10 @@
 using System;
 
-/* Apa */
+
+/* Test comment again, the apa is gone now */
+
+/* Test of row 2 */
+
 namespace KattenJanssonTestar1
 {
     public class WeatherForecast
@@ -14,3 +18,4 @@ namespace KattenJanssonTestar1
         public string Summary { get; set; }
     }
 }
+
